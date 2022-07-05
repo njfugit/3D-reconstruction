@@ -5,7 +5,7 @@
 ![pipeline!](/doc/pipeline.jpg "3D-reconstruction")
 
 ## Our results
-<img src="/doc/single.jpg" height="400"><img src="/doc/triplet.jpg" height="400">
+<img src="/doc/single.jpg" height="400" width="400"><img src="/doc/triplet.jpg" height="400" width="400">
 
 ## Pre-trained Models
 Download our pretrained models [here]()
