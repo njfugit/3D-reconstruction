@@ -2,7 +2,7 @@
 
 ## Code coming soon
 ## pipeline
-![pipeline!](/doc/pipeline.jpg "3D-reconstruction")
+![pipeline!](/doc/pipeline.jpg "3Dreconstruction")
 
 ## Our results
 <img src="/doc/single.jpg" height="400" width="400"><img src="/doc/triplet.jpg" height="400" width="400">
