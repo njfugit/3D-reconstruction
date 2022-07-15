@@ -2,10 +2,10 @@
 
 ## Code coming soon
 ## pipeline
-![pipeline!](/doc/pipeline.jpg "3Dreconstruction")
+![pipeline!](/figures/pipeline.jpg "3Dreconstruction")
 
 ## Our results
-<img src="/doc/single.jpg" height="400" width="400"><img src="/doc/triplet.jpg" height="400" width="400">
+<img src="/figures/single.jpg" height="400" width="400"><img src="/figures/triplet.jpg" height="400" width="400">
 
 ## Pre-trained Models
 Download our pretrained models [here](https://drive.google.com/drive/folders/1949VbIuTiJMp1FQycNS4iSuklS259CJE).
