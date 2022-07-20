@@ -10,7 +10,7 @@
   <img src="/figures/gif/rifle.gif" alt="animated" /> <img src="/figures/gif/sofa.gif" alt="animated" />
 </p>
 <p align="center">
-<img src="/figures/single.jpg"  height="400" width="400"><img src="/figures/triplet.jpg"  height="400" width="400">
+<img src="/figures/single.jpg"  height="350" width="350"><img src="/figures/triplet.jpg"  height="350" width="350">
 </p>
 
 ## Pre-trained Models
