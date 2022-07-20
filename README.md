@@ -3,9 +3,12 @@
 ## Code coming soon
 ## pipeline
 ![pipeline!](/figures/pipeline.jpg "3Dreconstruction")
-
-![airplane!](/figures/gif/airplane.gif "airplane")
 ## Our results
+<p align="center">
+  <img src="/figures/gif/airplane.gif" alt="animated" /> <img src="/figures/gif/chair.gif" alt="animated"/></br>
+  <img src="/figures/gif/rifle.gif" alt="animated" /> <img src="/figures/gif/sofa.gif" alt="animated" />
+</p>
+### pictures
 <img src="/figures/single.jpg" height="400" width="400"><img src="/figures/triplet.jpg" height="400" width="400">
 
 ## Pre-trained Models
